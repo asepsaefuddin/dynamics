@@ -5,6 +5,12 @@ A full-stack job portal application with infinite scroll functionality, featurin
 
 ## Installation
 
+### clone
+```bash
+git clone https://github.com/asepsaefuddin/dynamics
+cd dynamics
+```
+
 ### Backend
 ```bash
 cd backend

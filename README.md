@@ -21,7 +21,7 @@ npm install
 ```bash
 cd frontend
 npm install
-create .env ngambil contoh dari example.env
+create .env ngambil contoh dari example.env dan terapkan uri dari BE & FE
 ```
 
 ## Running the Application
